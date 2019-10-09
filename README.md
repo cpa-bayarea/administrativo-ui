@@ -82,6 +82,26 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 O projeto é o frotend da aplicação de controle de dados dos membros do Centro de Práticas Acadêmicas do IESB OESTE.
 
 
+# Desenvolvimento
+Para executar o projeto, execute os comandos abaixo. 
+```
+  yarn install
+```
+ou caso esteja usando npm
+```
+  npm install
+```
+
+E para subir a aplicação:
+
+```
+  yarn start
+```
+ou
+```
+  npm start
+```
+
 <!-- ## Docker
 Utilizamos o Docker como plataforma de desenvolvimento com o intuito de garantir o mesmo ambiente de desenvolvimento 
 independentemente do Sistema Operacional(SO) utilizado.
