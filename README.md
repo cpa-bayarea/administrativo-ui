@@ -66,3 +66,44 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+
+# Frontend Bay Admnistrativo
+
+[![GitHub Issues Abertas](https://img.shields.io/github/issues/cpa-bayarea/administrativo-bay.svg?maxAge=2592000)]() 
+[![GitHub Issues Fechas](https://img.shields.io/github/issues-closed-raw/cpa-bayarea/administrativo-bay.svg?maxAge=2592000)]()
+<a href="https://app.zenhub.com/workspace/o/cpa-bayarea/administrativo-bay/boards" target="_blank">
+    <img src="https://img.shields.io/badge/Managed_with-ZenHub-5e60ba.svg" alt="zenhub">
+</a>
+
+O projeto é o frotend da aplicação de controle de dados dos membros do Centro de Práticas Acadêmicas do IESB OESTE.
+
+
+<!-- ## Docker
+Utilizamos o Docker como plataforma de desenvolvimento com o intuito de garantir o mesmo ambiente de desenvolvimento 
+independentemente do Sistema Operacional(SO) utilizado.
+
+Para criar um ambiente para trabalhar com a API basta executar o comando abaixo:
+```
+  docker-compose -f docker-compose.dev.yml up -d
+```
+
+Para visualizar detalhes do container
+```
+  docker-compose ps
+``` -->
+
+## Tecnologias
+* [ReactJS](https://reactjs.org/)
+<!-- * [Docker](https://www.docker.com) -->
+
+## Contribuidores
+Todas as pessoas que colaboraram com o desenvimento do projeto API Bay estão centralizadas em um único local todos os que participaram com o desenvolvimento do projeto.
+  
+Clique [aqui](AUTHORS.md) para visualizar.
+
+## Como Contribuir ?
+Por favor leia o [```CONTRIBUTING.md```](CONTRIBUTING.md) para detalhes de como contribuir com o projeto.
